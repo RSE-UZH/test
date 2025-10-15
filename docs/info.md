@@ -17,4 +17,4 @@ Sed eu mi ipsum. Curabitur at erat scelerisque ante convallis ultricies quis nec
 eget facilisis sed, sollicitudin non augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
 cubilia curae. 
 
-<iframe src="map.html" height="600px" width="100%"></iframe>
+<iframe src="interactive_map.html" height="600px" width="100%"></iframe>
